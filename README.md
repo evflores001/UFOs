@@ -13,7 +13,7 @@ The event listener used within the app.js file awaits a "change" to occur within
 
 The following images are include an unfiltered table and a table after filters have been applied, respectively:
 
-![]() ![]()
+![](https://github.com/evflores001/UFOs/blob/main/images/UnfilteredTable.png) ![](https://github.com/evflores001/UFOs/blob/main/images/FilteredTable.png)
 
 ## Summary:
 ---
